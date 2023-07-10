@@ -5,6 +5,11 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
+Populate DB - Para iniciar la semilla de datos
+```
+http://localhost:3000/seed
+```
+
 # Temas
 
 Core Nest building blocks
